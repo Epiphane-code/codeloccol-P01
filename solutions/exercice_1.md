@@ -1,8 +1,11 @@
 
 ![capture d'écran](./assets/exercice1.png)
 
+
 Explications:
-mkdir cli_tmp : création d'un répertoire nommé cli_tmp
+mkdir cli_tmp : création d'un répertoire nommé cli_tmp \
+
+
 touch cli_tmp/je_suis_dans_tmp.txt : création d'un fichier nommé je_suis_dans_tmp.txt dans le répertoire cli_tmp
 cd cli_tmp : déplacement dans le répertoire cli_tmp
 touch in_cli_tmp.txt && mkdir in_cli_tmp : création d'un fichier nommé in_cli_tmp.txt et d'un répertoire nommé in_cli_tmp dans le répertoire cli_tmp
