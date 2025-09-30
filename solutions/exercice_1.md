@@ -1,1 +1,1 @@
-![drdrd](assets/exercice_1.png)
+![drdrd](./assets/exercice_1.png)
