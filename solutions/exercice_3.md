@@ -1,0 +1,1 @@
+![capture d'écran](./assets/exercice3.png)
