@@ -1,0 +1,1 @@
+:![drdrd](assets/exercice_1.png)
